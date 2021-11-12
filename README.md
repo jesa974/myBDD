@@ -2,7 +2,8 @@
 
 ![GitHub contributors](https://img.shields.io/github/contributors/jesa974/myBDD?color=green&style=flat-square)
 ![GitHub top language](https://img.shields.io/github/languages/top/jesa974/myBDD?color=orange&label=C&style=flat-square)
-![GitHub repo size](https://img.shields.io/github/repo-size/jesa974/myBDD?label=project%20size&style=flat-square&color=lightgrey)
+![GitHub repo size](https://img.shields.io/github/repo-size/jesa974/myBDD?label=Project%20size&style=flat-square&color=lightgrey)
+[![Visits Badge](https://badges.pufler.dev/visits/jesa974/myBDD)](https://badges.pufler.dev?style=for-the-badge)
 
 
 myBDD is a light approach for embedded system's data storage, works as database but simpler to understand, only if you are familiar with console !
